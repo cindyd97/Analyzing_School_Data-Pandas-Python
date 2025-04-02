@@ -1,5 +1,7 @@
 # Using Pandas-Python to Analyze a School District's Data
 
+[Back to Portfolio](https://github.com/cindyd97/Data-Analysis-Portfolio-Cindy)
+
 ### Description:
 
 This assignment creates a Python script, using the Pandas library, that performs calculations to summarize key metrics about each school including the following: school name, school type, total students, total school budget, per student budget, average math score, average reading score, percentage of students who passed math, percentage of students who passed reading, and percentage of students who pass math and reading. Dataframes are created to show the top 5 rows of the highest performing schools by % of Overall Passing and the lowest performing schools by % of Overall Passing. Dataframes are created to also list the average math score and average reading score for students of each grade level at each school. Other analyses include creating a table that breaks down school performance based on average spending ranges per student.
